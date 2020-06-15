@@ -2,7 +2,7 @@
   "name": "apod",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bpblattner/sweq",
+  "homepage": "https://github.com/Sweqtv/NASA-Code-Challenge",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
@@ -12,11 +12,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
