@@ -8,7 +8,7 @@ Use this boilerplate project to begin. I intentionally kept it simple and I want
 The project requires a datepicker component, so there is a component with react-datepicker that you can build from in the components directory.
 I've also added a .env file with an API key from NASA to use.
 
-Quick note -- The picture of the day API will return either a photo or video. Make sure to create logic to handle both types.
+**Quick note -- The picture of the day API will return either a photo or video. Make sure to create logic to handle both types.**
 
 ## Starting and Submitting the project
 - To start, fork the repo and work from your fork
