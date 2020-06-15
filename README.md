@@ -1,8 +1,9 @@
 ## NASA APOD Code Challenge
 For this challenge, you will create a single page app that displays the NASA picture of the day. 
-It should allow a user to enter a date to return the picture of the day, for that given date.
-It should allow a user to click a “Random Date” button, and get a random picture for the random date.
-It should have a sensible layout, and enough styling to give it a clean look.
+It should: 
+1. Allow a user to enter a date to return the picture of the day, for that given date.
+2. Allow a user to click a “Random Date” button, and get a random picture for the random date.
+3. Have a sensible layout, and enough styling to give it a clean look.
 
 Use this boilerplate project to begin. It was created using create-react-app. I intentionally kept it simple and I wanted to allow you to use whichever libraries or tools you want, if you want to use any at all.
 The project requires a datepicker component, so there is a component with react-datepicker that you can build from in the components directory.
