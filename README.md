@@ -8,10 +8,10 @@ It should:
 
 Check out the sample-image directory, for an example of what the end result should be. Feel free to use a different layout, or styles. The important thing is that it looks clean, and has the functionality mentioned in the above requirements. 
 
-Use this boilerplate project to begin. It was created using create-react-app. I intentionally kept it simple and I wanted to allow you to use whichever libraries or tools you want, if you want to use any at all.
+Use this boilerplate project to begin. It was created using create-react-app. We intentionally kept it simple and we wanted to allow you to use whichever libraries or tools you want, if you want to use any at all.
 The project requires a datepicker component, so there is a component with react-datepicker that you can build from in the components directory.
 
-I've also added a .env file with an API key from NASA to use.
+We've also added a .env file with an API key from NASA to use.
 
 **Quick note -- The picture of the day API will return either a photo or video. Make sure to create logic to handle both types.**
 
